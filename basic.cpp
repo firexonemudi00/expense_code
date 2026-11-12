@@ -1,0 +1,2 @@
+// so in this project we will build a expense tracker  with the help of claude code and we will update our progress on the github repository. The expense tracker will allow users to input their expenses, categorize them, and view summaries of their spending habits over time. We will implement features such as adding new expenses, viewing expense history, generating reports, and setting budget limits. The project will be structured in a modular way to ensure maintainability and scalability.
+
